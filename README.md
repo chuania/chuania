@@ -1,8 +1,8 @@
 ### <div align="center">Я Анастасия, начинающий бэкенд-разработчик на python👩🏼‍💻</div>  
 
 
-<p>КТО НАПИСАЛ ЭТОТ КОД!?
-<img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png"></p>
+<p>КТО НАПИСАЛ ЭТОТ КОД!?</p>
+<p><img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png"></p>
 
   
 
