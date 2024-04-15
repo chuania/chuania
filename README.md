@@ -1,7 +1,7 @@
 ### <div align="center">Я Анастасия, начинающий бэкенд-разработчик на python👩🏼‍💻</div>  
 
 
-<p> - КТО НАПИСАЛ ЭТОТ КОД!?</p>
+<p> - КТО НАПИСАЛ ЭТОТ КОД!?😤</p>
 <p><img width="80" height="80" src="https://github.com/chuania/chuania/blob/main/mouse.png"></p>
 
   
