@@ -2,7 +2,7 @@
 <p> - КТО НАПИСАЛ ЭТОТ КОД!?😤</p>
 <p><img width="80" height="80" src="https://github.com/chuania/chuania/blob/main/mouse.png"></p>
 
-### <div align="left">Я Анастасия, начинающий бэкенд-разработчик на python👩🏼‍💻</div>  
+<p>### Анастасия, начинающий бэкенд-разработчик на python👩🏼‍💻</p>
 
 
 <p>- ❤️ Проекты, сделанные с любовью</p> 
