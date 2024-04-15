@@ -3,7 +3,7 @@
 
 — КТО НАПИСАЛ ЭТОТ КОД!?
 
-<tr><td>—</td><td><img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png"></td></tr>
+<tr><img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png"></tr>
 
   
 
