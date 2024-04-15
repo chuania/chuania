@@ -1,7 +1,8 @@
 ### <div align="center">Я Анастасия, начинающий бэкенд-разработчик на python👩🏼‍💻</div>  
 
+
 — КТО НАПИСАЛ ЭТОТ КОД!?
-<table style=" border-collapse: collapse;">
+<table color = "#00ffffff">
 <tr><td>—</td><td><img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png"></td></tr>
 </table>
   
