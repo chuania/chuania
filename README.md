@@ -1,13 +1,4 @@
 ### <div align="center">Я Анастасия, начинающий бэкенд-разработчик на python👩🏼‍💻</div>  
-  <style type="text/css">
-   TABLE {
-    background: maroon; /* Цвет фона таблицы */
-    color: white; /* Цвет текста */
-   }
-   TD {
-    background: navy; /* Цвет фона ячеек */
-   }
-  </style>
 
 — КТО НАПИСАЛ ЭТОТ КОД!?
 <table style=" border-collapse: collapse;">
