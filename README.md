@@ -2,7 +2,7 @@
   
 
 — КТО НАПИСАЛ ЭТОТ КОД!?
-<table style="border-collapse:collapse;">
+<table border="1">
 <tr>
 <td>—</td>
 <td><img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png"></td>
