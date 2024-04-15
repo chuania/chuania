@@ -2,8 +2,9 @@
   
 
 -КТО НАПИСАЛ ЭТОТ КОД!?
+
 -<p>
-  <img width="40" height="40" src="https://github.com/chuania/chuania/blob/main/mouse.png">
+  <img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png">
 </p>
   
 
