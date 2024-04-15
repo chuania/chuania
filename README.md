@@ -3,8 +3,7 @@
 
 — КТО НАПИСАЛ ЭТОТ КОД!?
 
-
-<p>— <img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png"></p>
+<p>—<img width="60" height="60" src="https://github.com/chuania/chuania/blob/main/mouse.png"></p>
   
 
 - ❤️ Код, сделанный с любовью 
