@@ -3,7 +3,7 @@
 <p><img width="80" height="80" src="https://github.com/chuania/chuania/blob/main/mouse.png"></p>
 
 <p> 👩🏼‍💻👋🏻 Анастасия, начинающий бэкенд-разработчик на Python</p>
-<p> ❤️ Мои проекты сделаны с любовью</p> 
+<p> ❤️🐍 Мои проекты сделаны с любовью</p> 
 
   
   
